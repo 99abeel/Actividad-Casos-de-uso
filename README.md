@@ -1,5 +1,6 @@
 # Actividad-Casos-de-uso
 
+Diagrama de uso:
 
 @startuml
 actor Cliente
