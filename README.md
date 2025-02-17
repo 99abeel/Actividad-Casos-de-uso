@@ -35,4 +35,4 @@ Este caso de uso permite a un cliente retirar dinero de su cuenta mediante un ca
 ------
 ### 3. Responde a las siguiente pregunta:¿Para qué me sirve tener/realizar un diagrama de casos de uso modelando el sistema que se representa? ¿Qué aporta?
 
-Sirve para visualizar mejor y tener las ideas mas claras sobre las interacciones que tienen los usuarios y el sistema, pudiendo ver las funcionalidades que tiene. También sirve como base para el diseño y la planificación del sistema, asegurando que todas las funcionalidades estén cubiertas. 
+Sirve para visualizar mejor y tener las ideas mas claras sobre las interacciones que tienen los usuarios y el sistema, pudiendo ver las funcionalidades que tiene. También sirve como base para el diseño y la planificación del sistema, asegurando que todas las funcionalidades estén cubiertas. Además que puede ayudar a comunicar mejor entre trabajadores, alumnos, ... los requisitos funcionales del sistema que se requieran.
